@@ -1,0 +1,15 @@
+src/
+|-- assets/          # Images, icons, etc.
+|-- components/
+|   |-- App/
+|   |-- Authentication/
+|   |   |-- Signup.js
+|   |   |-- Login.js
+|   |-- Dashboard/
+|   |   |-- TaskList.js
+|   |   |-- TaskItem.js
+|   |   |-- AddTask.js
+|   |-- Notification/
+|   |-- styles/      # All your CSS/SCSS files
+|-- App.js
+|-- index.js

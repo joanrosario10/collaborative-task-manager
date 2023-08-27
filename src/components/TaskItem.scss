@@ -1,0 +1,15 @@
+.task-item {
+    padding: 10px;
+    border: 1px solid #ccc;
+    margin: 5px 0;
+    border-radius: 4px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+    p {
+        margin: 0;
+    }
+
+    // Add any additional styles for the task item here
+}
